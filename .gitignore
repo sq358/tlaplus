@@ -1,0 +1,5 @@
+# Mac OSx
+.DS_Store
+
+# TLA+ Toolbox
+*.toolbox
